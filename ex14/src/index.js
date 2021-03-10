@@ -2,7 +2,7 @@ function main (){
     // Only change code below this line  
     <html>
     <head>
-        <p>Kitty ipsum dolor sit amet,shed everywhere</p>
+        <p>Kitty Ipsum dolor sit amet,shed everywhere</p>
         <body>
 
         </body>
