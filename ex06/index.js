@@ -7,6 +7,7 @@ function main (){
     x = 7;
     y = 12;
     z = x + "Mirza";
+    return [x, y, z];
 
     // Only change code below this line
   
